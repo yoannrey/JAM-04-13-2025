@@ -1,0 +1,13 @@
+/Assets
+  /Scripts
+  /Scenes
+  /Prefabs
+  /Art
+  /Audio
+  /Materials
+  /Animations
+/ProjectSettings
+/Packages
+.gitignore
+README.md
+LICENSE
